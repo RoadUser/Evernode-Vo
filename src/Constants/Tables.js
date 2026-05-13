@@ -5,4 +5,4 @@ module.exports = {
     PROPOSALS: "Proposals",
     VOTES: "Votes"
   }
-};
+};main
